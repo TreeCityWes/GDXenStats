@@ -1,6 +1,5 @@
-# GDXen Stats Python Script
-
-This repository contains the codebase for the interface of XenGarbageDump. 
+# XenGarbageDump Stats Python Script
+This repository from TreeCityWes.eth contains the codebase for the interface of XenGarbageDump. See treecitytrading.us for more info. 
 
 ![Banner](path-to-your-banner-image)
 
