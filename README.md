@@ -1,6 +1,6 @@
-# GDXen DApp Interface
+# GDXen Stats Python Script
 
-This repository contains the codebase for the interface of GDXen, a decentralized application that allows users to interact with the GDXen smart contract on the Polygon blockchain.
+This repository contains the codebase for the interface of XenGarbageDump. 
 
 ![Banner](path-to-your-banner-image)
 
