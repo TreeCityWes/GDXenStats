@@ -95,11 +95,11 @@ def get_account_stats(user_address):
 
     return {
         "Health Score": health_score,
-        "XEN Batches Burned": xen_batches_burned,
+        "XEN Batches Burned This Cycle": xen_batches_burned,
         "Rewards Claimed": format_token_amount(rewards_claimed, ticker="GDXEN"),
         "Stake Information": stake_information,  # This is the combined string
         "Accrued Fees": format_token_amount(accrued_fees, ticker="MATIC"),
-        "Your Total XEN Burned": format_token_amount(total_xen_burned, decimals=0),
+        "Your Total XEN Burned This Cycle": format_token_amount(total_xen_burned, decimals=0),
     }
 
 def get_xec_total_supply():
